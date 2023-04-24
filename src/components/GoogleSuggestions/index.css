@@ -1,0 +1,23 @@
+/* W[rite your CSS here */
+.con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.heading {
+  font-size: 80px;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
+.green {
+  color: green;
+}
